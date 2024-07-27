@@ -1,4 +1,4 @@
-# Day  | 7 | IPv4 Addressing (Part 1)
+# Day 7 | IPv4 Addressing (Part 1)
 
 이 글은 Jeremy’s IT Lab의 유튜브 CCNA 200-301 과정을 참고하고 정리한 내용입니다.
 
